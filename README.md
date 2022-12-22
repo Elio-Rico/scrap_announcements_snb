@@ -5,3 +5,6 @@ Instructions:
 - Indicate the working directory
 - Indicate the download folder
 - Run the script :)
+
+Requirements:
+- Selenium must be installed
