@@ -12,6 +12,8 @@ import time
 import os
 from selenium.common.exceptions import TimeoutException
 
+import chromedriver_autoinstaller as chr
+chr.install()
 
 # DEFINE THE WORKING DIRECTORY TO BE THE FOLDER PROJECT:
 # * « * * « * * « * * « * * « * * « * * « * * « * * « * * « * * « * * « * * « *
